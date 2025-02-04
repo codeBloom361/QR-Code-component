@@ -55,6 +55,9 @@ footer{
     color: grey;
     text-align: center;
 }
+a{
+    text-decoration: none;
+}
 @media (max-width: 760px){
     .main{
         margin-top: 50px;

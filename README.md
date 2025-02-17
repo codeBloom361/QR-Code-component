@@ -33,9 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - I learned to use flex box to center div element vertically. 
 - I learned box shadow property of CSS.
 - I learned transform property.
-### Continued development
-
-I will work on dark mode for this QR code component.
 
 ### Useful resources
 
